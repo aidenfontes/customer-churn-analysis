@@ -22,7 +22,7 @@ An end-to-end analysis of customer churn for a telecommunications company using 
 - [SQL Queries](SQL/churn_queries.sql)
 
 ## Preview
-![Dashboard Screenshot](Tableau/tableau_dashboard.png)
+![Dashboard Screenshot](customer-churn-analysis/Tableau/tableau_dashboard.png)
 
 ---
 *Author: Aiden Fontes*
