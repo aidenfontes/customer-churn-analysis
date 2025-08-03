@@ -115,7 +115,7 @@ This project analyzes **Telco customer churn data** to:
 - **Tenure Group Analysis.**  
 - **Interactive Tableau Dashboard** ([View Here](https://public.tableau.com/app/profile/aiden.fontes/viz/ChurnAnalysis_17539352623890/Dashboard3?publish=yes&showOnboarding=true))  
 
-![Tableau Dashboard](Images/tableau_dashboard.png)  
+![Tableau Dashboard](customer-churn-analysis/Images/tableau_dashboard.png)  
 
 ---
 
